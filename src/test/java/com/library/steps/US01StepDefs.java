@@ -24,7 +24,7 @@ public class US01StepDefs {
     public void verify_the_below_columns_are_listed_in_result(List<String> columnsList) {
 
         System.out.println("expectedList = " + columnsList);
-        // Assertions
+
         Assert.assertEquals(columnsList, actualColumnsList);
     }
 
