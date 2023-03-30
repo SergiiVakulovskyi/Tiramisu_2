@@ -15,7 +15,7 @@ import org.junit.Assert;
 import java.util.ArrayList;
 import java.util.List;
 
-public class US07_StudentBorrowBookStepDefs extends BasePage {
+public class US07StepDefs extends BasePage {
 
     LoginPage loginPage = new LoginPage();
     BookPage bookPage = new BookPage();
@@ -24,14 +24,14 @@ public class US07_StudentBorrowBookStepDefs extends BasePage {
     List <String> ui_book_is_borrowed;
 
 
-    @Given("the user {string} on the home page")
-    public void the_user_on_the_home_page(String user) {
+    @Given("the user login as {string} on the home page")
+    public void login_as_the_user_on_the_home_page(String user) {
 
         loginPage.login(user);
     }
 
-    @When("the user navigates to {string} page")
-    public void the_user_navigates_to_page(String page) {
+    @When("the user navigates to the {string} page")
+    public void the_user_navigates_to_the_page(String page) {
 
         navigateModule(page);
         BrowserUtil.waitFor(2);

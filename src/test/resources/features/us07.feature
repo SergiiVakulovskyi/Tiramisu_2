@@ -4,8 +4,8 @@ Feature: Books module
 
   @wip @ui @db
   Scenario: Student borrow new book
-    Given the user "student" on the home page
-    And the user navigates to "Books" page
+    Given the user login as "student" on the home page
+    And the user navigates to the "Books" page
     And the user searches for "GoodBook12" book
     When the user clicks Borrow Book
     Then verify that book is shown in "Borrowing Books" page
