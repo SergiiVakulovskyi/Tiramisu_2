@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851ce8b8-3af2-40f8-bc11-623177f82ce5" name="Changes" comment="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress.">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/library/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/library/runner/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/us01.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/us01.feature" afterDir="false" />
-    </list>
+    <list default="true" id="851ce8b8-3af2-40f8-bc11-623177f82ce5" name="Changes" comment="Class is updated." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1680066629930" duration="2409000" />
       <workItem from="1680108488666" duration="1368000" />
       <workItem from="1680111174618" duration="1242000" />
-      <workItem from="1680193490172" duration="3664000" />
+      <workItem from="1680193490172" duration="3995000" />
     </task>
     <task id="LOCAL-00001" summary="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress.">
       <created>1680067929317</created>
@@ -98,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680067929317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is done.">
+      <created>1680197729527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197729527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Class is updated.">
+      <created>1680197784193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197784193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +128,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress." />
-    <option name="LAST_COMMIT_MESSAGE" value="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress." />
+    <MESSAGE value="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is done." />
+    <MESSAGE value="Class is updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class is updated." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
