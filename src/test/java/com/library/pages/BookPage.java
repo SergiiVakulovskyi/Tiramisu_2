@@ -66,5 +66,8 @@ public class BookPage extends BasePage {
     }
 
 
+    public void searchBook(String bookKeyword){
+        search.sendKeys(bookKeyword);
+    }
 
 }

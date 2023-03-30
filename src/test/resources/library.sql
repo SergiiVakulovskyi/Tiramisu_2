@@ -19,4 +19,10 @@ select * from users;
 select count(*) from book_borrow
 where is_returned=0;
 
-select
+-- US 04
+select * from books
+where name = 'Clean Code'
+order by isbn desc ;
+
+
+
