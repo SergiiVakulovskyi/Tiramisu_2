@@ -24,5 +24,6 @@ select * from books
 where name = 'Clean Code'
 order by isbn desc ;
 
+select * from users;
 
-
+select id from users;

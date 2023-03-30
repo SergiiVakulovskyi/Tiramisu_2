@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851ce8b8-3af2-40f8-bc11-623177f82ce5" name="Changes" comment="Class is updated." />
+    <list default="true" id="851ce8b8-3af2-40f8-bc11-623177f82ce5" name="Changes" comment="Class is updated.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/library.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +89,7 @@
       <workItem from="1680066629930" duration="2409000" />
       <workItem from="1680108488666" duration="1368000" />
       <workItem from="1680111174618" duration="1242000" />
-      <workItem from="1680193490172" duration="3995000" />
+      <workItem from="1680193490172" duration="9041000" />
     </task>
     <task id="LOCAL-00001" summary="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress.">
       <created>1680067929317</created>
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680197784193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class is updated.">
+      <created>1680197890428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197890428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
