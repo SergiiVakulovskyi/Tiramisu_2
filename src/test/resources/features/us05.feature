@@ -1,7 +1,7 @@
-@B28G28-134
+
 Feature: As a data consumer, I want to know genre of books are being borrowed the most
 
-  @B28G28-128 @wip
+  @B28G28-133 @wip @yev @db
   Scenario: verify the the common book genre that’s being borrowed
     Given Establish the database connection.
     When I execute query to find most popular book genre
