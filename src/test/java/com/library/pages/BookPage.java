@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
 
-public class BookPage extends BasePage {
+public class BookPage extends com.library.pages.BasePage {
 
     @FindBy(xpath = "//table/tbody/tr")
     public List<WebElement> allRows;
@@ -61,5 +61,8 @@ public class BookPage extends BasePage {
     }
 
 
+    public void searchBook(String bookKeyword){
+        search.sendKeys(bookKeyword);
+    }
 
 }
