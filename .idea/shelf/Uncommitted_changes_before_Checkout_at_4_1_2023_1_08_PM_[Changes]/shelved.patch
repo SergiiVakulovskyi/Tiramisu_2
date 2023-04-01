@@ -1,0 +1,30 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -86,7 +86,7 @@
+       <workItem from="1680066629930" duration="2409000" />
+       <workItem from="1680108488666" duration="1368000" />
+       <workItem from="1680111174618" duration="1242000" />
+-      <workItem from="1680193490172" duration="9596000" />
++      <workItem from="1680193490172" duration="9925000" />
+     </task>
+     <task id="LOCAL-00001" summary="US1_Burak branch is created.&#10;US01StepDefs is created.&#10;US-1 is on progress.">
+       <created>1680067929317</created>
+@@ -123,7 +123,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1680215854532</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="DB Console has created. Database checked manually">
++      <created>1680215922457</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1680215922457</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
